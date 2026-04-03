@@ -1,0 +1,5 @@
+{
+  "name": "Adaptive Cyber Defense Dashboard",
+  "description": "A modern RL dashboard for DQN-based cyber defense training and monitoring.",
+  "requestFramePermissions": []
+}
